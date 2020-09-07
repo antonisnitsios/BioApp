@@ -1,0 +1,25 @@
+/*
+ * Footer css File
+*/
+
+footer {
+   background-image:url('footer.jpg');
+   display:block;
+   min-width:100%;
+   clear:both;
+   height:140px;
+   color:white;
+   font-weight:bold;
+}
+
+footer ul, h6{
+   padding: 8px;
+   list-style-type:none;
+}
+
+#cop{
+	float:right;
+	margin-top: 100px;
+	margin-right: 10px;
+	font-size: 21px;
+}

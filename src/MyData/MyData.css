@@ -1,0 +1,36 @@
+.MyData {
+}
+
+.container{
+	margin-top: 4rem;
+	font-family: Lobster;
+	clear:both;
+	display:block;
+}
+
+.row{
+	width: 170vh;
+	margin-top: 0;
+}
+
+.col-md-3{
+	border: solid thin gray;
+	height: 66vh;
+	border-radius: 10px;
+	background-image: url('3.jpg');
+}
+
+.col-md-3 ul{
+	list-style-type:none;
+	color: #cadaca;
+	padding: 12px;
+	text-shadow: 0px 1px #124a73;
+}
+
+.col-md-3 a{
+	color: white;
+}
+
+#on{
+	color: green;
+}

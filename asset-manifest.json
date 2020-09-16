@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/bio/static/css/main.57e1dbb8.chunk.css",
-    "main.js": "/bio/static/js/main.aaca5adb.chunk.js",
-    "main.js.map": "/bio/static/js/main.aaca5adb.chunk.js.map",
-    "runtime-main.js": "/bio/static/js/runtime-main.430ebb96.js",
-    "runtime-main.js.map": "/bio/static/js/runtime-main.430ebb96.js.map",
-    "static/css/2.ceb79488.chunk.css": "/bio/static/css/2.ceb79488.chunk.css",
-    "static/js/2.4bf3ee90.chunk.js": "/bio/static/js/2.4bf3ee90.chunk.js",
-    "static/js/2.4bf3ee90.chunk.js.map": "/bio/static/js/2.4bf3ee90.chunk.js.map",
-    "index.html": "/bio/index.html",
-    "precache-manifest.fde7e97b29661ae0871dbb1bec4ebf87.js": "/bio/precache-manifest.fde7e97b29661ae0871dbb1bec4ebf87.js",
-    "service-worker.js": "/bio/service-worker.js",
-    "static/css/2.ceb79488.chunk.css.map": "/bio/static/css/2.ceb79488.chunk.css.map",
-    "static/css/main.57e1dbb8.chunk.css.map": "/bio/static/css/main.57e1dbb8.chunk.css.map",
-    "static/js/2.4bf3ee90.chunk.js.LICENSE.txt": "/bio/static/js/2.4bf3ee90.chunk.js.LICENSE.txt",
-    "static/media/AppBody.css": "/bio/static/media/2.6d79fb48.jpg",
-    "static/media/MyData.css": "/bio/static/media/3.40ab9698.jpg",
-    "static/media/antonis.jpg": "/bio/static/media/antonis.39010185.jpg",
-    "static/media/Header.css": "/bio/static/media/background.c75d6618.jpg",
-    "static/media/Footer.css": "/bio/static/media/footer.38d8bc31.jpg"
+    "main.css": "/bioApp/static/css/main.26a21d27.chunk.css",
+    "main.js": "/bioApp/static/js/main.49d385d7.chunk.js",
+    "main.js.map": "/bioApp/static/js/main.49d385d7.chunk.js.map",
+    "runtime-main.js": "/bioApp/static/js/runtime-main.6e074662.js",
+    "runtime-main.js.map": "/bioApp/static/js/runtime-main.6e074662.js.map",
+    "static/css/2.ceb79488.chunk.css": "/bioApp/static/css/2.ceb79488.chunk.css",
+    "static/js/2.4bf3ee90.chunk.js": "/bioApp/static/js/2.4bf3ee90.chunk.js",
+    "static/js/2.4bf3ee90.chunk.js.map": "/bioApp/static/js/2.4bf3ee90.chunk.js.map",
+    "index.html": "/bioApp/index.html",
+    "precache-manifest.a740095120a83af99aa033d658439d52.js": "/bioApp/precache-manifest.a740095120a83af99aa033d658439d52.js",
+    "service-worker.js": "/bioApp/service-worker.js",
+    "static/css/2.ceb79488.chunk.css.map": "/bioApp/static/css/2.ceb79488.chunk.css.map",
+    "static/css/main.26a21d27.chunk.css.map": "/bioApp/static/css/main.26a21d27.chunk.css.map",
+    "static/js/2.4bf3ee90.chunk.js.LICENSE.txt": "/bioApp/static/js/2.4bf3ee90.chunk.js.LICENSE.txt",
+    "static/media/AppBody.css": "/bioApp/static/media/2.6d79fb48.jpg",
+    "static/media/MyData.css": "/bioApp/static/media/3.40ab9698.jpg",
+    "static/media/antonis.jpg": "/bioApp/static/media/antonis.39010185.jpg",
+    "static/media/Header.css": "/bioApp/static/media/background.c75d6618.jpg",
+    "static/media/Footer.css": "/bioApp/static/media/footer.38d8bc31.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.430ebb96.js",
+    "static/js/runtime-main.6e074662.js",
     "static/css/2.ceb79488.chunk.css",
     "static/js/2.4bf3ee90.chunk.js",
-    "static/css/main.57e1dbb8.chunk.css",
-    "static/js/main.aaca5adb.chunk.js"
+    "static/css/main.26a21d27.chunk.css",
+    "static/js/main.49d385d7.chunk.js"
   ]
 }

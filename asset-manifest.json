@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bioApp/static/css/main.26a21d27.chunk.css",
+    "main.css": "/bioApp/static/css/main.18c04bf5.chunk.css",
     "main.js": "/bioApp/static/js/main.49d385d7.chunk.js",
     "main.js.map": "/bioApp/static/js/main.49d385d7.chunk.js.map",
     "runtime-main.js": "/bioApp/static/js/runtime-main.6e074662.js",
@@ -9,10 +9,10 @@
     "static/js/2.4bf3ee90.chunk.js": "/bioApp/static/js/2.4bf3ee90.chunk.js",
     "static/js/2.4bf3ee90.chunk.js.map": "/bioApp/static/js/2.4bf3ee90.chunk.js.map",
     "index.html": "/bioApp/index.html",
-    "precache-manifest.a740095120a83af99aa033d658439d52.js": "/bioApp/precache-manifest.a740095120a83af99aa033d658439d52.js",
+    "precache-manifest.b90ead5a6ec640914a74863109472f80.js": "/bioApp/precache-manifest.b90ead5a6ec640914a74863109472f80.js",
     "service-worker.js": "/bioApp/service-worker.js",
     "static/css/2.ceb79488.chunk.css.map": "/bioApp/static/css/2.ceb79488.chunk.css.map",
-    "static/css/main.26a21d27.chunk.css.map": "/bioApp/static/css/main.26a21d27.chunk.css.map",
+    "static/css/main.18c04bf5.chunk.css.map": "/bioApp/static/css/main.18c04bf5.chunk.css.map",
     "static/js/2.4bf3ee90.chunk.js.LICENSE.txt": "/bioApp/static/js/2.4bf3ee90.chunk.js.LICENSE.txt",
     "static/media/AppBody.css": "/bioApp/static/media/2.6d79fb48.jpg",
     "static/media/MyData.css": "/bioApp/static/media/3.40ab9698.jpg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.6e074662.js",
     "static/css/2.ceb79488.chunk.css",
     "static/js/2.4bf3ee90.chunk.js",
-    "static/css/main.26a21d27.chunk.css",
+    "static/css/main.18c04bf5.chunk.css",
     "static/js/main.49d385d7.chunk.js"
   ]
 }

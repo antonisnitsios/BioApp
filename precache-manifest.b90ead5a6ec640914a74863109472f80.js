@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4349fcf5a55a56231c2fac2cf4c9579d",
+    "revision": "e4bdd9b772a29ca20cf66cc3693e940c",
     "url": "/bioApp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bioApp/static/css/2.ceb79488.chunk.css"
   },
   {
-    "revision": "d7c1c9098fe33cf9614c",
-    "url": "/bioApp/static/css/main.26a21d27.chunk.css"
+    "revision": "d8c90401c78de04de8a1",
+    "url": "/bioApp/static/css/main.18c04bf5.chunk.css"
   },
   {
     "revision": "bd3d265e7bcb389d07af",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bioApp/static/js/2.4bf3ee90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d7c1c9098fe33cf9614c",
+    "revision": "d8c90401c78de04de8a1",
     "url": "/bioApp/static/js/main.49d385d7.chunk.js"
   },
   {
